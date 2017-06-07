@@ -58,10 +58,7 @@ You can see how to use in example application in this repository ... Good luck, 
 
 ## Contact Me
 
-Anak Mirasing
+Aby 
 
-- https://github.com/igroomgrim
-- https://www.linkedin.com/in/anakmirasing
-- https://twitter.com/igroomgrim
-- http://www.igroomgrim.com/
-- thaihooligan@hotmail.com
+- https://github.com/abbiee
+
